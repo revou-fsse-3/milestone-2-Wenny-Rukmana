@@ -1,7 +1,7 @@
 // NewsAPI.js
 import axios from "axios";
 
-const apiKey = "30056a2197834336b064fdd8203454ee";
+const apiKey = "0fa5bf9418294f959d81aa25dc23b0c3";
 
 const fetchNewsByCategory = async (selectedCategory: string) => {
   try {
